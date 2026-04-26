@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "wordlay",
+  "name": "wordlaypro",
   "rewrites": [
     { "source": "/(.*)", "destination": "/api/index" }
   ],
